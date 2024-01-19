@@ -1,0 +1,14 @@
+*.o
+*.so
+*.a
+*.s
+*.o.*
+
+._*
+.DS_Store
+
+.clang-format
+
+*/bin
+
+Results/Graphs
