@@ -58,4 +58,4 @@ When using this work, please cite accordingly:
 
 André Lopes, Daniel Castro, and Paolo Romano. "PIM-STM: Software Transactional Memory for Processing-In-Memory Systems". Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2. 2024.
 
-This work was supported by national funds through FCT, Fundação para a Ciência e a Tecnologia, under project UIDB/50021/2020 (DOI:10.54499/UIDB/50021/2020) and via IAPMEI under project C645008882\mbox{-}00000055.PRR (NextGenerationEU/EU Recovery and Resilience Plan).
+This work was supported by national funds through FCT, Fundação para a Ciência e a Tecnologia, under project UIDB/50021/2020 (DOI:10.54499/UIDB/50021/2020) and via IAPMEI under project C645008882-00000055.PRR (NextGenerationEU/EU Recovery and Resilience Plan).
