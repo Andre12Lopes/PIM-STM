@@ -4,7 +4,9 @@ Processing-In-Memory (PIM) is a novel approach that augments existing DRAM memor
 
 This work tackles the problem of how to build efficient software implementations of the Transactional Memory  (TM) abstraction by introducing PIM-STM, a library that provides a range of diverse TM implementations  for  UPMEM, the first commercial PIM system. Via an extensive study we  assess the efficiency of alternative choices in the design space of TM algorithms on this emerging  architecture. We further quantify the impact of using different memory tiers of the UPMEM system (having different trade-offs for what concerns latency vs capacity) to store the  metadata used by  different TM implementations. Finally, we assess the gains achievable in terms of performance and memory efficiency when using PIM-STM to accelerate TM applications originally conceived for conventional CPU-based systems.
 
-![image](Results/Distribured_kmeans/plot_energy.png)
+<p align="center">
+<img src="Results/Distribured_kmeans/plot_energy.png" alt="image" width="600"/>
+</p>
 
 You can find the extended version of the paper on arXiv - https://arxiv.org/abs/2401.09281.
 
